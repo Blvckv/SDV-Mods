@@ -11,9 +11,9 @@
     "tabs.skills": "Habilidades",
     "tabs.weather": "Clima",
     "tabs.relationships": "Relaciones",
-    "tabs.warp": "Puntos de Localizaciones",
+    "tabs.warp": "Puntos de localizaciones",
     "tabs.time": "Tiempo",
-    "tabs.advanced": "Opciones Avanzadas",
+    "tabs.advanced": "Opciones avanzadas",
     "tabs.controls": "Controles",
 
 
@@ -22,25 +22,25 @@
     *********/
     // player
     "player.title": "Jugador",
-    "player.infinite-stamina": "Energía Infinita",
-    "player.infinite-health": "Salud Infinita",
-    "player.instant-cooldowns": "Instant Weapon Cooldowns", // TODO
-    "player.inventory-size": "Inventory Size", // TODO
-    "player.movement-speed": "Velocidad de Movimiento",
-    "player.movement-speed.default": "normal", // TODO
-    "player.one-hit-kill": "Matar de Un Golpe",
+    "player.infinite-stamina": "Energía infinita",
+    "player.infinite-health": "Salud infinita",
+    "player.instant-cooldowns": "Enfriamiento instantáneo de armas", // TODO
+    "player.inventory-size": "Tamaño de inventario", // TODO
+    "player.movement-speed": "Velocidad de movimiento",
+    "player.movement-speed.default": "Normal", // TODO
+    "player.one-hit-kill": "Matar de un golpe",
     "player.max-daily-luck": "Máxima Suerte Diaria",
 
     // tools
     "tools.title": "Herramientas",
-    "tools.infinite-water": "Agua Infinita en la Regadera",
-    "tools.one-hit-break": "Romper de Un Golpe",
-    "tools.harvest-with-scythe": "Cosechar con Guadaña",
+    "tools.infinite-water": "Agua infinita en la regadera",
+    "tools.one-hit-break": "Romper de un golpe",
+    "tools.harvest-with-scythe": "Cosechar con guadaña",
 
     // money
     "money.title": "Dinero",
     "money.add-amount": "Añadir {{amount}}g",
-    "casino-coins.title": "Monedas Del Casino",
+    "casino-coins.title": "Monedas del casino",
     "casino-coins.add-amount": "Añadir {{amount}}",
 
 
@@ -49,29 +49,29 @@
     *********/
     // farm
     "farm.title": "Granja",
-    "farm.auto-water": "Auto-Water Crops", // TODO
-    "farm.durable-fences": "Vallas Duraderas",
-    "farm.instant-build": "Construcciones Instantáneas",
-    "farm.always-auto-feed": "Siempre Auto Alimentar",
-    "farm.infinite-hay": "Heno Infinito",
+    "farm.auto-water": "Riego autómatico", // TODO
+    "farm.durable-fences": "Vallas duraderas",
+    "farm.instant-build": "Construcciones instantáneas",
+    "farm.always-auto-feed": "Siempre auto alimentar",
+    "farm.infinite-hay": "Heno infinito",
 
     // fishing
     "fishing.title": "Pesca",
-    "fishing.instant-catch": "Captura Instantánea",
-    "fishing.instant-bite": "Mordida Instantánea",
-    "fishing.always-throw-max-distance": "Siempre Lanzar Distancia Máxima",
-    "fishing.always-treasure": "Siempre Tesoros",
-    "fishing.durable-tackles": "Aparejos Duraderos",
+    "fishing.instant-catch": "Captura instantánea",
+    "fishing.instant-bite": "Mordida instantánea",
+    "fishing.always-throw-max-distance": "Siempre lanzar distancia máxima",
+    "fishing.always-treasure": "Siempre tesoros",
+    "fishing.durable-tackles": "Aparejos duraderos",
 
     // fast machines
-    "fast-machines.title": "Procesamiento Rápido de Las Máquinas",
+    "fast-machines.title": "Procesamiento rápido de las Máquinas",
     "fast-machines.bee-house": "Colmena",
     "fast-machines.cask": "Tonel",
-    "fast-machines.charcoal-kiln": "Horno de Carbón",
-    "fast-machines.cheese-press": "Prensa de Queso",
+    "fast-machines.charcoal-kiln": "Horno de carbón",
+    "fast-machines.cheese-press": "Prensa de queso",
     "fast-machines.crab-pot": "Trampa para cangrejos",
     "fast-machines.crystalarium": "Cristalario",
-    "fast-machines.fruit-trees": "Árboles Frutales",
+    "fast-machines.fruit-trees": "Árboles frutales",
     "fast-machines.furnace": "Horno",
     "fast-machines.incubator": "Incubadora (lista por la mañana)", // TODO review (auto-translated)
     "fast-machines.keg": "Barril",
@@ -79,18 +79,18 @@
     "fast-machines.loom": "Telar",
     "fast-machines.mayonnaise-machine": "Mayonesera",
     "fast-machines.mushroom-box": "Caja de Setas",
-    "fast-machines.oil-maker": "Aceitera",
+    "fast-machines.oil-maker": "Amanzara",
     "fast-machines.preserves-jar": "Envasadora",
-    "fast-machines.recycling-machine": "Máquina de Reciclaje",
+    "fast-machines.recycling-machine": "Máquina de reciclaje",
     "fast-machines.seed-maker": "Semilladora",
-    "fast-machines.slime-egg-press": "Presa de Babas",
-    "fast-machines.slime-incubator": "Incubadora de Babas",
+    "fast-machines.slime-egg-press": "Presa de babas",
+    "fast-machines.slime-incubator": "Incubadora de babas",
     "fast-machines.soda-machine": "Máquina de refrescos",
     "fast-machines.statue-of-endless-fortune": "Estatua de la fortuna eterna",
     "fast-machines.statue-of-perfection": "Estatua de la perfección",
     "fast-machines.tapper": "Resinera",
     "fast-machines.wood-chipper": "Astilladora de madera",
-    "fast-machines.worm-bin": "Vivero de Cebo",
+    "fast-machines.worm-bin": "Vivero de cebo",
 
 
     /*********
@@ -146,7 +146,7 @@
     "weather.current": "Actual",
     "weather.sunny": "Soleado",
     "weather.raining": "Lloviendo",
-    "weather.lightning": "Relámpago",
+    "weather.lightning": "Tormenta",
     "weather.snowing": "Nevando",
 
 
@@ -155,7 +155,7 @@
     *********/
     "relationships.title": "Relaciones",
     "relationships.give-gifts-anytime": "Dar regalos en cualquier momento",
-    "relationships.no-decay": "Ninguna Amistad Decaerá",
+    "relationships.no-decay": "Ninguna amistad decaerá",
     "relationships.friends": "Amigos",
 
 
@@ -163,7 +163,7 @@
     ** Warps tab
     *********/
     // main areas
-    "warp-section.main": "Main Areas", // TODO
+    "warp-section.main": "Areas principales", // TODO
     "warp.farm": "Granja",
     "warp.carpenter": "Carpintería",
     "warp.desert": "Desierto de Calico",
@@ -171,24 +171,24 @@
     "warp.pierre-shop": "Tienda Pierre's",
 
     // town
-    "warp-section.town": "Town", // TODO
+    "warp-section.town": "Pueblo", // TODO
     "warp.blacksmith": "Herrería",
     "warp.community-center": "Centro Cívico",
     "warp.jojamart": "MercaJoja",
     "warp.movie-theater": "El Cine",
-    "warp.museum": "Museo y Biblioteca",
+    "warp.museum": "Museo",
     "warp.saloon": "Salón",
     "warp.sewer": "Alcantarillas",
 
     // forest
-    "warp-section.forest": "Forest", // TODO
+    "warp-section.forest": "Bosque", // TODO
     "warp.hats": "Sombreros",
     "warp.ranch": "Rancho de Marnie",
     "warp.secret-woods": "Bosque Secreto",
     "warp.wizard-tower": "Torre del Mago",
 
     // mountain
-    "warp-section.mountain": "Mountain", // TODO
+    "warp-section.mountain": "Montaña", // TODO
     "warp.adventurers-guild": "Gremio de Aventureros",
     "warp.bathhouse": "Spa",
     "warp.quarry": "Cantera",
@@ -199,7 +199,7 @@
     "warp.willy-shop": "Tienda de Pesca",
 
     // desert
-    "warp-section.desert": "Desert", // TODO
+    "warp-section.desert": "Desierto", // TODO
     "warp.casino": "Casino",
     "warp.sandy-shop": "Tienda Sandy's",
     "warp.skull-cavern": "Caverna Calavera",
@@ -209,11 +209,11 @@
     ** Time tab
     *********/
     "time.title": "Tiempo",
-    "time.freeze-inside": "Congelar Tiempo Dentro",
-    "time.freeze-caves": "Congelar Tiempo en Cuevas",
-    "time.freeze-everywhere": "Congelar Tiempo en Todas Partes",
+    "time.freeze-inside": "Congelar tiempo dentro",
+    "time.freeze-caves": "Congelar tiempo en cuevas",
+    "time.freeze-everywhere": "Congelar tiempo en todas partes",
     "time.time": "Tiempo",
-    "time.time-frozen-message": "Tiempo Congelado",
+    "time.time-frozen-message": "Tiempo congelado",
 
 
     /*********
@@ -228,7 +228,7 @@
     "flags.unlocked-content": "Contenido desbloqueado",
     "flags.unlocked-content.dyes-and-tailoring": "Tintes y sastrería",
     "flags.community-center": "Centro Cívico",
-    "flags.community-center.door-unlocked": "Puerta Abierta",
+    "flags.community-center.door-unlocked": "Puerta abierta",
     "flags.jojamart.membership": "Membresía de JojaMart",
 
 
@@ -236,12 +236,12 @@
     ** Controls tab
     *********/
     "controls.title": "Controles",
-    "controls.android-config-note": "You can change the on-screen buttons in the config files for the CJB Cheats Menu and Virtual Keyboard mods.", // TODO
-    "controls.open-menu": "Abrir Menu",
-    "controls.freeze-time": "Congelar Tiempo",
-    "controls.grow-tree": "Cultivar Árbol",
-    "controls.grow-crops": "Cultivar Cultivos",
-    "controls.grow-radius": "Grow distance around player", // TODO
-    "controls.reset-controls": "Reset", // TODO
-    "controls.press-new-key": "Presione Nueva Tecla..."
+    "controls.android-config-note": "Puedes cambiar los botones en pantalla en los archivos de configuración para el menú de trucos de CJB y las modificaciones del teclado virtual.", // TODO
+    "controls.open-menu": "Abrir menu",
+    "controls.freeze-time": "Congelar tiempo",
+    "controls.grow-tree": "Cultivar árbol",
+    "controls.grow-crops": "Cultivar cultivos",
+    "controls.grow-radius": "Distancia de crecimiento alrededor del jugador", // TODO
+    "controls.reset-controls": "Restaurar", // TODO
+    "controls.press-new-key": "Presione nueva tecla..."
 }
