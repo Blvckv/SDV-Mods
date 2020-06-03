@@ -29,7 +29,7 @@
     "player.movement-speed": "Velocidad de movimiento",
     "player.movement-speed.default": "Normal", // TODO
     "player.one-hit-kill": "Matar de un golpe",
-    "player.max-daily-luck": "Máxima Suerte Diaria",
+    "player.max-daily-luck": "Máxima suerte diaria",
 
     // tools
     "tools.title": "Herramientas",
